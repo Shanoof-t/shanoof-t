@@ -15,7 +15,6 @@
   </a>
 </p>
 
----
 
 - 🔭 I’m currently working on [Kicks](https://kicks-pi-rose.vercel.app/)
 - 🌱 I’m currently learning **Node.js**
