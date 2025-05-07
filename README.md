@@ -16,7 +16,7 @@
 </p>
 
 
-- 🔭 I’m currently working on [Kicks](https://kicks-pi-rose.vercel.app/)
+- 🔭 I’m currently working on [Abacus](https://abacuss.online)
 - 🌱 I’m currently learning **Node.js**
 - 👨‍💻 All of my projects are available at [my portfolio](https://shanoof-t.github.io/shanoof-portfolio/)
 - 💬 Ask me about **MERN Stack**
