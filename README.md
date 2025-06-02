@@ -104,17 +104,8 @@
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40" />
   </a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer">
-    <img src="https://dashboard.render.com/static/media/render-icon.1c8f90a3.svg" alt="render" width="40" height="40" />
-  </a>
   <a href="https://nginx.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
-  </a>
-  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
-    <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1614357248/brand/logo/cloudinary_icon_blue_512.png" alt="cloudinary" width="40" height="40" />
-  </a>
-  <a href="https://razorpay.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Razorpay_logo.svg" alt="razorpay" width="40" height="40" />
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
