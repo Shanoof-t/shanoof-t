@@ -16,8 +16,8 @@
 </p>
 
 
-- 🔭 I’m currently working on [Abacus](https://abacuss.online)
-- 🌱 I’m currently learning **Node.js**
+- 🔭 I’m currently working on [ZED]("")
+- 🌱 I’m currently learning **Kafka**
 - 👨‍💻 All of my projects are available at [my portfolio](https://shanoof-t.github.io/shanoof-portfolio/)
 - 💬 Ask me about **MERN Stack**
 - 📫 How to reach me: **shanoof.001@gmail.com**
